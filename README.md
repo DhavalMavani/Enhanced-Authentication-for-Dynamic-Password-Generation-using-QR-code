@@ -27,3 +27,6 @@ The EADPQR algorithm follows a streamlined process:
 | System Architecture Diagram | ![image](https://github.com/DhavalMavani/Enhanced-Authentication-for-Dynamic-Password-Generation-using-QR-code/assets/61201815/36724927-e69c-4301-9708-787a1c67d904) |
 | Program Flow | ![image](https://github.com/DhavalMavani/Enhanced-Authentication-for-Dynamic-Password-Generation-using-QR-code/assets/61201815/75c069b7-eb37-4409-b5f0-2af3016ba6a8) |
 | Sequence Diagram | ![image](https://github.com/DhavalMavani/Enhanced-Authentication-for-Dynamic-Password-Generation-using-QR-code/assets/61201815/f0e00082-fa4b-401d-9fec-786e1c262ed7) |
+
+## 🔗 Let's Connect
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhaval-mavani)
